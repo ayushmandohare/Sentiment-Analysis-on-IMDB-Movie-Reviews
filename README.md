@@ -43,12 +43,15 @@ The project includes a deployed **Streamlit web app** where users can test the m
    cd sentiment-analysis-svm
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    
-3. Run the Streamlit app:
+4. Run the Streamlit app:
+   ```bash
    streamlit run app.py
 
-4. Open your browser and go to:
+6. Open your browser and go to:
+   ```bash
    http://localhost:8501
    
 ---    
