@@ -57,6 +57,7 @@ The project includes a deployed **Streamlit web app** where users can test the m
 ---    
 
 ## 🖼️ Demo Screenshot
+<img width="1916" height="848" alt="Image" src="https://github.com/user-attachments/assets/de68b8a7-6f51-4629-9258-44fd967229fe" />
 
 ---
 
