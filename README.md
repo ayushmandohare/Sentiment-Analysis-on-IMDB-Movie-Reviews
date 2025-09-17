@@ -25,9 +25,13 @@ The project includes a deployed **Streamlit web app** where users can test the m
 
 ## 📂 Project Structure
 ├── app.py # Streamlit web app
+
 ├── sentiment_svm_model.pkl # Trained SVM model
+
 ├── tfidf_vectorizer.pkl # TF-IDF vectorizer
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 ---
