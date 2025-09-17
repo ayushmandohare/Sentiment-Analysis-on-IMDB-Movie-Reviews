@@ -41,3 +41,23 @@ The project includes a deployed **Streamlit web app** where users can test the m
    ```bash
    git clone https://github.com/your-username/sentiment-analysis-svm.git
    cd sentiment-analysis-svm
+
+2. Install dependencies:
+   pip install -r requirements.txt
+   
+3. Run the Streamlit app:
+   streamlit run app.py
+
+4. Open your browser and go to:
+   http://localhost:8501
+   
+---    
+
+## 🖼️ Demo Screenshot
+
+---
+
+## ✨ Future Improvements
+- Add more datasets for training
+- Experiment with deep learning models (LSTM, BERT)
+- Multi-class sentiment (positive, negative, neutral)
